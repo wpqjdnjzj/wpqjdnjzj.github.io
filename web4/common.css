@@ -19,7 +19,7 @@ border:1px solid #000; margin-top: 8px; margin-left: -2px;}
 outline:0; border:0; background-position:center center; background-image: url("./img/sch-img.jpg"); 
 position:absolute; right:0; top:0;  }
 .lang_link { float:right; margin-top:24px; }
-.lang_link a { display:block; width: 128px; height: 42px; float:left; margin-left: -50px;
+.lang_link a { display:block; height: 42px; float:left; 
     background-repeat: no-repeat; background-position:10px center; line-height:42px; text-align:right; 
 padding-right:20px; font-size:14px; color:#333; box-sizing: border-box; font-weight: bold; }
 
